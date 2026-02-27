@@ -11,7 +11,7 @@ const RECRUIT = {
   START_DATE: Date.UTC(2025, 8, 1, 0, 0, 0),
   END_DATE: Date.UTC(2025, 8, 10, 14, 59, 59),
   ANNOUNCE_DATE: Date.UTC(2025, 8, 12, 0, 0, 0),
-  GENERATION: 30,
+  GENERATION: 31,
   SCHEDULE: [
     { TEXT: "서류 접수 시작", DATE: "9/1" },
     { TEXT: "서류 접수 마감", DATE: "9/10" },
